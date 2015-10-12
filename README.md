@@ -1,4 +1,4 @@
-# Python Regex 01
+# Mailbox Regex
 
 This repository contains a simple Python program that shows the use of regular expressions in Python. In this example we use a file named "mbox.txt" which contains mail transaction data. We are interested in processing this file and extracting the name and its corresponding email address. Although, many techniques could be used to extract these, here we show the power of regex using Python.
 
